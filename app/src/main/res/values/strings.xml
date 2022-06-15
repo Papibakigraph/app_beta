@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">qualidf</string>
+
+
+
+    <string-array name="planopiloto">
+        <item>p</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Cingapura</item>
+        <item>Nova York</item>
+        <item>Istambul</item>
+        <item>Dubai</item>
+        <item>Kuala Lumpur</item>
+        <item>Hong Kong</item>
+        <item>Barcelona</item>
+
+    </string-array>
+
+    <string-array name="ceilandia">
+        <item>p</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Cingapura</item>
+        <item>Nova York</item>
+        <item>Istambul</item>
+        <item>Dubai</item>
+        <item>Kuala Lumpur</item>
+        <item>Hong Kong</item>
+        <item>Barcelona</item>
+
+    </string-array>
+
+    <string-array name="gama">
+        <item>p</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Cingapura</item>
+        <item>Nova York</item>
+        <item>Istambul</item>
+        <item>Dubai</item>
+        <item>Kuala Lumpur</item>
+        <item>Hong Kong</item>
+        <item>Barcelona</item>
+
+    </string-array>
+
+    <string-array name="guara">
+        <item>p</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Cingapura</item>
+        <item>Nova York</item>
+        <item>Istambul</item>
+        <item>Dubai</item>
+        <item>Kuala Lumpur</item>
+        <item>Hong Kong</item>
+        <item>Barcelona</item>
+
+    </string-array>
+
+    <string-array name="sobradinho">
+        <item>p</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Cingapura</item>
+        <item>Nova York</item>
+        <item>Istambul</item>
+        <item>Dubai</item>
+        <item>Kuala Lumpur</item>
+        <item>Hong Kong</item>
+        <item>Barcelona</item>
+
+    </string-array>
+
+    <string-array name="bandeirante">
+        <item>p</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Cingapura</item>
+        <item>Nova York</item>
+        <item>Istambul</item>
+        <item>Dubai</item>
+        <item>Kuala Lumpur</item>
+        <item>Hong Kong</item>
+        <item>Barcelona</item>
+
+    </string-array>
+
+    <string-array name="paranoa">
+        <item>p</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Cingapura</item>
+        <item>Nova York</item>
+        <item>Istambul</item>
+        <item>Dubai</item>
+        <item>Kuala Lumpur</item>
+        <item>Hong Kong</item>
+        <item>Barcelona</item>
+
+    </string-array>
+
+    <string-array name="planaltina">
+        <item>p</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Cingapura</item>
+        <item>Nova York</item>
+        <item>Istambul</item>
+        <item>Dubai</item>
+        <item>Kuala Lumpur</item>
+        <item>Hong Kong</item>
+        <item>Barcelona</item>
+
+    </string-array>
+</resources>
