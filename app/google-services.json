@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122122220091",
+    "project_id": "appqua-22",
+    "storage_bucket": "appqua-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122122220091:android:6851eec1aa46d22100221e",
+        "android_client_info": {
+          "package_name": "com.qdf.qualidf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122122220091-sragmi8mlun9mis8nf4i0d09qnu2u9b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPcqSitZwf_aSV_QUGZ8FgLVkq-FmtrQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122122220091-sragmi8mlun9mis8nf4i0d09qnu2u9b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
